@@ -4,6 +4,10 @@ This is a small local app for downloading a YouTube video and exporting only the
 
 Use this only for videos you own or have permission to download and edit. Downloading content may also be restricted by YouTube's Terms of Service.
 
+## Preview
+
+![Frontend preview](assets/frontend.png)
+
 ## What it does
 
 - Paste a YouTube URL
