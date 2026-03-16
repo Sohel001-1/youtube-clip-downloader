@@ -1,0 +1,10 @@
+{
+  "name": "yt-downloader-clipper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local YouTube clip downloader for personal use",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
